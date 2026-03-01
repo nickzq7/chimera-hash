@@ -1,0 +1,53 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# NumPy / data files
+*.npy
+*.npz
+*.pkl
+*.pickle
+
+# Node (if any JS tooling used)
+node_modules/
