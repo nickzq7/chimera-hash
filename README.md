@@ -279,7 +279,7 @@ At `r=3.9`, Lyapunov exponent `λ ≈ 0.53`. Small differences in `(char, positi
 ## Research Paper
 
 Full paper: **CHIMERA-Hash: Chaos-IDF Multiresolution Entropy Resonance Attractor Hash**
-*Manish Kumar Parihar, 2025*
+*Manish Kumar Parihar, 2026*
 
 Available in the `paper/` folder of this repository.
 
@@ -316,7 +316,7 @@ MIT License — see [LICENSE](LICENSE) for full text.
 You are free to use, modify, and distribute this code for any purpose (research or commercial) as long as you credit the original author.
 
 ```
-Copyright (c) 2025 Manish Kumar Parihar
+Copyright (c) 2026 Manish Kumar Parihar
 ```
 
 ---
@@ -329,7 +329,7 @@ If you use CHIMERA-Hash in your research, please cite:
 @misc{parihar2025chimera,
   title   = {CHIMERA-Hash: Chaos-IDF Multiresolution Entropy Resonance Attractor Hash},
   author  = {Parihar, Manish Kumar},
-  year    = {2025},
+  year    = {2026},
   url     = {https://github.com/nickzq7/chimera-hash}
 }
 ```
