@@ -343,10 +343,11 @@ All 115 test pairs are listed in Appendix A of the paper and in `run_benchmark.p
 
 ```bibtex
 @article{parihar2026chimera,
-  title   = {CHIMERA-Hash: Chaos-IDF Multiresolution Entropy Resonance Attractor Hash},
-  author  = {Parihar, Manish Kumar},
-  year    = {2026},
-  url     = {https://github.com/nickzq7/chimera-hash}
+  title  = {CHIMERA-Hash: Chaos-IDF Multiresolution Entropy Resonance Attractor Hash},
+  author = {Parihar, Manish Kumar},
+  year   = {2026},
+  doi    = {10.5281/zenodo.18823652},
+  url    = {https://doi.org/10.5281/zenodo.18823652}
 }
 ```
 
